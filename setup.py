@@ -8,10 +8,10 @@ with open('README.md') as readme_file:
 
 requirements = [
     "netcdf4",
-    "brain-score @ git+https://github.com/brain-score/brain-score",
-    "model-tools @ git+https://github.com/brain-score/model-tools",
+    "brain-score @ git+https://github.com/BonnerLab/brain-score",
+    "model-tools @ git+https://github.com/BonnerLab/model-tools",
     "numpy",
-    "result_caching @ git+https://github.com/brain-score/result_caching",
+    "result_caching @ git+https://github.com/Bonnerlab/result-caching",
     "networkx==1.11",
     "tqdm",
     "gitpython",
