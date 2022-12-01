@@ -11,7 +11,7 @@ requirements = [
     "brain-score @ git+https://github.com/BonnerLab/brain-score",
     "model-tools @ git+https://github.com/BonnerLab/model-tools",
     "numpy",
-    "result_caching @ git+https://github.com/Bonnerlab/result-caching",
+    "result_caching @ git+https://github.com/BonnerLab/result-caching",
     "networkx==1.11",
     "tqdm",
     "gitpython",
